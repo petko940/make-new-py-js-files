@@ -94,4 +94,3 @@ new_button(67, 45, "#00cc00", "#193300", new_single_file)
 close_button(67, 157, "#cc0000", "#660000", close)
 
 window.mainloop()
-
